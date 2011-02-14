@@ -1,0 +1,13 @@
+Changelog for emailObfuscate.
+
+emailObfuscate 1.0.0
+====================
+- ported to MODx Revolution as output modifier
+
+ObfuscateEmail  0.9.1 (Apr 15, 2007)
+====================
+- Fixed: Regex for atom allowed empty string.
+
+ObfuscateEmail 0.9.0 (Mar 16, 2007)
+====================
+- Original release.
